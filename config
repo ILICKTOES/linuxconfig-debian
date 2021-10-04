@@ -1,7 +1,7 @@
 set $mod Mod4
 
 # Font 
-font pango:brutalist mono 8
+font pango:hack 8
                                            															# type "nm-applet" in dmenu
 # Use Mouse+$mod to drag floating windows
 floating_modifier $mod
